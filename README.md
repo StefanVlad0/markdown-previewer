@@ -2,7 +2,7 @@
 
 &ensp;
 
- Markdown previewr written in React.
+ Markdown previewer written in React.
 
  &ensp;
 
@@ -48,7 +48,8 @@
 
  ## :camera: Screenshots
 
-![markdown](https://github.com/StefanVlad0/markdown-previewer/assets/72700839/89242d66-8346-491a-9f01-c1487e98bdbe)
+![markdown](https://github.com/StefanVlad0/markdown-previewer/assets/72700839/c8b6f151-4e44-4404-8ce3-77f3993ba97a)
+
 
 
 
